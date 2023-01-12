@@ -1,9 +1,19 @@
 .wikititle {
   text-align: center;
   font-size: x-large;
+  border: 1px solid lightgray;
+  margin: auto;
 }
 
-.subtitle{
+.subtitle {
   text-align: center;
   font-size: small;
+}
+
+.col {
+  text-align: justify;
+}
+
+img {
+  text-align: justify;
 }
